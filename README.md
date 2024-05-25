@@ -8,3 +8,12 @@
 - Yorguin trata de hacer resnet + gp en pytorh gpytorch
 
 Cada uno queda en una carpeta diferente
+
+## Datasets
+
+- https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity
+- https://www.kaggle.com/datasets/farjanakabirsamanta/osteoarthritis-prediction
+
+## Example working models
+
+- https://www.kaggle.com/code/jiaowoguanren/prediction-with-plot-roc-0-89
